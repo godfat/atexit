@@ -4,4 +4,3 @@ rvm:
 install: true
 script:
  - ruby foo.rb
- - echo "All done"
