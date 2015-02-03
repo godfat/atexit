@@ -3,4 +3,4 @@ rvm:
  - 1.9.2
 install: true
 script:
- - ruby foo.rb
+ - ruby -S rake test
